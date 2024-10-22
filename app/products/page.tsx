@@ -1,7 +1,5 @@
 import AddProduct from "./addProduct";
-import { tree } from "next/dist/build/templates/app-page";
 import prisma from "@/utils/db";
-import { title } from 'node:process';
 import DeleteProduct from "./deleteProduct";
 import UpdateProduct from "./updateProduct";
 
